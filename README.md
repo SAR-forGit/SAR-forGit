@@ -3,6 +3,11 @@
 
 🧑‍💻 Software Engineer sharing my journey and learning in tech <br/>
 
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/F57PUG4gK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sars_officialis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sa-r-b96752385) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sar_is_here)
+
+###  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UChx_ziBq5ch16V2WmzsTxDg) Check out YouTube Channel:
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Cyberpunk 2077 Phantom Liberty: New Person, Same Old Mistakes - 4K | No Commentary](https://ytcards.demolab.com/?id=PRTlElmp61E&title=Cyberpunk+2077+Phantom+Liberty%3A+New+Person%2C+Same+Old+Mistakes+-+4K+%7C+No+Commentary&lang=en&timestamp=1785425069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyberpunk 2077 Phantom Liberty: New Person, Same Old Mistakes - 4K | No Commentary")](https://www.youtube.com/watch?v=PRTlElmp61E)
 [![Cyberpunk 2077 Phantom Liberty: Violence - 4K | No Commentary](https://ytcards.demolab.com/?id=Oxt-fwVMhaY&title=Cyberpunk+2077+Phantom+Liberty%3A+Violence+-+4K+%7C+No+Commentary&lang=en&timestamp=1785268035&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyberpunk 2077 Phantom Liberty: Violence - 4K | No Commentary")](https://www.youtube.com/watch?v=Oxt-fwVMhaY)
@@ -11,11 +16,7 @@
 [![Cyberpunk 2077 Phantom Liberty: Error 404 (Gig) - 4K | No Commentary](https://ytcards.demolab.com/?id=-qzD_1u_4To&title=Cyberpunk+2077+Phantom+Liberty%3A+Error+404+%28Gig%29+-+4K+%7C+No+Commentary&lang=en&timestamp=1784227574&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyberpunk 2077 Phantom Liberty: Error 404 (Gig) - 4K | No Commentary")](https://www.youtube.com/watch?v=-qzD_1u_4To)
 [![Cyberpunk 2077 Phantom Liberty: Race to the Top (Gig) - 4K | No Commentary](https://ytcards.demolab.com/?id=ANh0ucvJAi4&title=Cyberpunk+2077+Phantom+Liberty%3A+Race+to+the+Top+%28Gig%29+-+4K+%7C+No+Commentary&lang=en&timestamp=1784226663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Cyberpunk 2077 Phantom Liberty: Race to the Top (Gig) - 4K | No Commentary")](https://www.youtube.com/watch?v=ANh0ucvJAi4)
 <!-- END YOUTUBE-CARDS -->
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/F57PUG4gK) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sars_officialis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/sa-r-b96752385) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sar_is_here)
-
-###  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UChx_ziBq5ch16V2WmzsTxDg) Check out YouTube Channels:
+Visit Channels: <br/>
 🎓 Learn Computer Science Engineering Courses from [SARs Officialis](https://www.youtube.com/channel/UC0MKEuIwHZMUY-j5xFCovsg) <br/>
 📱 Know about latest Tech News and Leaks at [SARs Tech Officialis](https://www.youtube.com/channel/UChx_ziBq5ch16V2WmzsTxDg) <br/>
 🎮 Watch the latest Gameplays at [SARs Gaming Officialis](https://www.youtube.com/channel/UCSuloCYNZnJ7_63QPCCd0zQ) <br/>
